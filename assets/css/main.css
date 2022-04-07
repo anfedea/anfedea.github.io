@@ -2818,12 +2818,8 @@ input, select, textarea {
 /* Wrapper */
 
 	#wrapper {
-		background-image: url("baner.jpeg");
-		background-repeat: no-repeat;
- 		background-attachment: fixed; 
- 		background-size: cover;
-		background-size: 100% 100%;
-
+		background: #6E7CAC
+		padding-right: 23em;
 	}
 
 /* Main */
