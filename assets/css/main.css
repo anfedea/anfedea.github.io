@@ -2720,7 +2720,7 @@ input, select, textarea {
 			}
 
 		#header header p {
-			color: #b7eadc;
+			color: #E9954C;
 		}
 
 		#header a {
@@ -2789,7 +2789,7 @@ input, select, textarea {
 			}
 
 				#header > nav ul li {
-					border-top: solid 2px #5ccfb1;
+					border-top: solid 2px #E9954C;
 					display: block;
 					padding: 0;
 				}
