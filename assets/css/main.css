@@ -2818,7 +2818,7 @@ input, select, textarea {
 /* Wrapper */
 
 	#wrapper {
-		background-igame: url("baner.jpeg");
+		background-image: url("baner.jpeg");
 		background-repeat: no-repeat;
  		background-attachment: fixed; 
  		background-size: cover;
