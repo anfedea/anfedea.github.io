@@ -2823,6 +2823,8 @@ input, select, textarea {
  		background-attachment: fixed; 
  		background-size: cover;
 		padding-right: 23em;
+		background-size: 100% 100%;
+
 	}
 
 /* Main */
