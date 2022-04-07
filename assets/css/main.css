@@ -2818,7 +2818,10 @@ input, select, textarea {
 /* Wrapper */
 
 	#wrapper {
-		background: #fff;
+		background-image: <img src="images/baner.jpeg" alt="" />;
+  	background-repeat: no-repeat;
+  	background-attachment: fixed; 
+  	background-size: cover;
 		padding-right: 23em;
 	}
 
