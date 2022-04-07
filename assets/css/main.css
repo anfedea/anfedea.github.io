@@ -2819,7 +2819,7 @@ input, select, textarea {
 
 	#wrapper {
 		overflow: hidden;
-		background: url(../images/baner.jpeg);
+		background: url(images/baner.jpeg);
 		background-repeat: no-repeat;
  		background-attachment: fixed; 
  		background-size: cover;
@@ -2829,7 +2829,7 @@ input, select, textarea {
 /* Main */
 
 	#main > section {
-		border-top: solid 6px #f4f4f4;
+		border-top: solid 6px #3C4C8A;
 	}
 
 		#main > section > .container {
