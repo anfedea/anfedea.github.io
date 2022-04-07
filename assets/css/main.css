@@ -2819,7 +2819,10 @@ input, select, textarea {
 
 	#wrapper {
 		overflow: hidden;
-		background: url('images/1.jpg');
+		background: url(../images/baner.jpeg);
+		background-repeat: no-repeat;
+ 		background-attachment: fixed; 
+ 		background-size: cover;
 		padding-right: 23em;
 	}
 
