@@ -2608,6 +2608,16 @@ input, select, textarea {
 			margin: 0 0 3em 0;
 			width: 100%;
 		}
+		.image.avatar {
+			border-radius: 100%;
+			overflow: hidden;
+		}
+
+			.image.avatar img {
+				border-radius: 100%;
+				display: block;
+				width: 100%;
+			}
 
 			.image.main img {
 				width: 100%;
@@ -3390,6 +3400,11 @@ input, select, textarea {
 			flex: 1;
 			text-align: right;
 		}
+		#header > header .avatar {
+				display: block;
+				margin: 0 auto 2.25em auto;
+				width: 8em;
+			}
 
 			#header > nav > ul {
 				margin: 0;
@@ -3429,6 +3444,10 @@ input, select, textarea {
 
 			#header {
 				padding: 1em 2em;
+			}
+			#header > header .avatar {
+				margin: 0 auto 1.6875em auto;
+				width: 6em;
 			}
 
 		}
