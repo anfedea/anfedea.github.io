@@ -3400,16 +3400,6 @@ input, select, textarea {
 			flex: 1;
 			text-align: right;
 		}
-		#header > header .avatar {
-				display: block;
-				margin: 0 auto 2.25em auto;
-				width: 8em;
-			}
-
-			#header > nav > ul {
-				margin: 0;
-				padding: 0;
-			}
 
 				#header > nav > ul > li {
 					display: inline-block;
@@ -3585,7 +3575,16 @@ input, select, textarea {
 			body.is-ie #sidebar > .inner {
 				height: 100%;
 			}
+		#sidebar > sidebar .avatar {
+				display: block;
+				margin: 0 auto 2.25em auto;
+				width: 8em;
+			}
 
+			#header > nav > ul {
+				margin: 0;
+				padding: 0;
+			}
 		#sidebar nav > ul {
 			list-style: none;
 			padding: 0;
